@@ -1,0 +1,32 @@
+{
+  "showInTray": true,
+  "minimizeToTrayOnClose": true,
+  "useAppWindowControls": false,
+  "enableClaudePluginIntegration": false,
+  "skipClaudeOnboarding": false,
+  "launchOnStartup": false,
+  "silentStartup": false,
+  "enableLocalProxy": false,
+  "enableFailoverToggle": false,
+  "showProfileSwitcher": true,
+  "preserveCodexOfficialAuthOnSwitch": false,
+  "unifyCodexSessionHistory": false,
+  "firstRunNoticeConfirmed": true,
+  "commonConfigConfirmed": true,
+  "currentProviderClaude": "default",
+  "currentProviderCodex": "codex-official",
+  "skillSyncMethod": "auto",
+  "skillStorageLocation": "cc_switch",
+  "localMigrations": {
+    "codexThirdPartyHistoryProviderBucketV1": {
+      "completedAt": "2026-07-20T06:57:40.642657081+00:00",
+      "targetProviderId": "custom",
+      "migratedJsonlFiles": 0,
+      "migratedStateRows": 0,
+      "scannedHistoryFiles": true
+    },
+    "codexProviderTemplateV1": {
+      "completedAt": "2026-07-20T06:57:40.643669331+00:00"
+    }
+  }
+}

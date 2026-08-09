@@ -1,0 +1,8 @@
+# cc-switch runtime data
+*.db
+logs/
+backups/
+
+# watt_toolkit runtime
+*.log
+*.pid
